@@ -1,0 +1,1 @@
+Deploy the whole ZIP/project to Netlify (not only index.html). Add environment variable GEMINI_API_KEY in Netlify site settings using your private Google AI Studio key, then redeploy. Never share the key. This demo provides AI text captions and image prompts, not actual image/video generation.
